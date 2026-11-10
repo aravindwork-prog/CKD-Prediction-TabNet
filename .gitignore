@@ -1,0 +1,25 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Matplotlib cache
+.matplotlib/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.local
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
